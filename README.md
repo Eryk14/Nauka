@@ -1,3 +1,4 @@
-# hello-word
+# Eryk Janus
 zaczynamy zabawę :D
+
 
